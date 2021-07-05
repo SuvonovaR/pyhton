@@ -1,0 +1,2 @@
+# pyhton
+otpuskadagi darslarning misollari
